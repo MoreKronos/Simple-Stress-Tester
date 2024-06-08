@@ -20,7 +20,7 @@ Please use this software responsibly and only in controlled testing environments
 
 This software was created for educational and testing purposes only. Please use it responsibly.
 
-virus total,
+##virus total
  
 https://www.virustotal.com/gui/file/c7a432e23708c6ca3b1a2ecc25069e3c5be171a04ea0c183d64ed81c7a34734e?nocache=1
 
