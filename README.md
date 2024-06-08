@@ -16,12 +16,8 @@ Please use this software responsibly and only in controlled testing environments
 4. Click on the "Start Stress Test" button to initiate the stress test.
 5. To stop the stress test, click on the "Stop Stress Test" button.
 
-## Acknowledgements
+## VirusTotal
 
-This software was created for educational and testing purposes only. Please use it responsibly.
+[Scan the executable on VirusTotal](https://www.virustotal.com/gui/file/c7a432e23708c6ca3b1a2ecc25069e3c5be171a04ea0c183d64ed81c7a34734e?nocache=1)
 
-##virus total
- 
-https://www.virustotal.com/gui/file/c7a432e23708c6ca3b1a2ecc25069e3c5be171a04ea0c183d64ed81c7a34734e?nocache=1
-
-they are false positives i will send the code to you on discord if you want
+Please note that the detections reported by VirusTotal are false positives.
