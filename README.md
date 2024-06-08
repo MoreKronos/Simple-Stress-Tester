@@ -16,10 +16,6 @@ Please use this software responsibly and only in controlled testing environments
 4. Click on the "Start Stress Test" button to initiate the stress test.
 5. To stop the stress test, click on the "Stop Stress Test" button.
 
-## License
-
-This software is provided under the [MIT License](LICENSE). You are free to use the software as is, but you may not modify, sublicense, or distribute modified versions of the software. You must include the original copyright notice and license in any copies or substantial portions of the software.
-
 ## Acknowledgements
 
 This software was created for educational and testing purposes only. Please use it responsibly.
